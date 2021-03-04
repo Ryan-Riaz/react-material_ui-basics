@@ -27,6 +27,7 @@ const useStyle = makeStyles((theme) => ({
     },
     footer: {
         background: theme.palette.background.paper,
+        padding: "20px 0",
     },
 }));
 

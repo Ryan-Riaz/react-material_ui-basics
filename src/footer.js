@@ -5,8 +5,8 @@ import useStyle from "./style";
 const Footer = () => {
     const classes = useStyle();
     return (
-        <footer classes={classes.footer}>
-            <Typography variant="h3" align="center" gutterBottom>
+        <footer className={classes.footer}>
+            <Typography variant="h4" align="center" gutterBottom>
                 Ryan Riaz's Album
             </Typography>
             <Typography align="center" paragraph>
