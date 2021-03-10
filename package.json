@@ -2,7 +2,7 @@
     "name": "mui-website-basic",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://ryan-riaz.github.io/mui_landing-page",
+    "homepage": "https://ryan-riaz.github.io/react-material_ui-basics",
     "dependencies": {
         "@material-ui/core": "^4.11.3",
         "@material-ui/icons": "^4.11.2",
